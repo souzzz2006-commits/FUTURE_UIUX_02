@@ -1,18 +1,59 @@
 # FUTURE_UIUX_02
-wellness app
-# Blossom – Wellness App (Task 2)
+🌿 Blossom Wellness App – UI/UX Case Study
 
-This project is created as part of the Future Interns UI/UX Internship Program.
+This project is created for Future Interns – UI/UX Design Task 2.
+Blossom is a calming wellness app focused on breathing, journaling, and affirmations.
 
-## Screens Designed
-- Home (Desktop + Mobile)
-- Breathing Activity (Desktop + Mobile)
-- Breathing Session Screen
-- Breathing Completion Screen
+📱 Screens Included
 
-## Tools Used
-- Figma
-- Google Fonts
-- IconScout
+Home
 
-All design files and screenshots are available in the /screenshots folder.
+Desktop
+
+Mobile
+
+Dashboard / Tracker
+
+Desktop
+
+Breathing Exercise
+
+Desktop
+
+Mobile
+
+Success page
+
+Journaling
+
+Desktop
+
+Mobile
+
+Affirmations
+
+Desktop
+
+Mobile
+
+🎨 Tools Used
+
+Figma
+
+Google Fonts (Poppins, Inter)
+
+Icons from IconScout
+
+Custom palettes (Teal + Sunset)
+
+✔ Deliverables
+
+Mobile-first UI
+
+Accessible calming colours
+
+Clean wellness UX design
+
+Prototype-ready screens
+
+Organized screenshot folder
